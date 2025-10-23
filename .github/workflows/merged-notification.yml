@@ -1,4 +1,4 @@
-name: Merged notification
+name: Merged notification[![Merged notification](https://github.com/github/docs/actions/workflows/merged-notification.yml/badge.svg?branch=dependabot%2Fnpm_and_yarn%2Fprimer%2Freact-37.27.0&event=discussion)](https://github.com/github/docs/actions/workflows/merged-notification.yml)
 
 # **What it does**: When we merge an open-source pull request, we want to set expectations that deployment may take awhile.
 # **Why we have it**: We deploy to production from docs-internal, not docs.
